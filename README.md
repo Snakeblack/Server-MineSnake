@@ -16,6 +16,9 @@
 5. Ejecuta Tlauncher y elige la versión `1.16.5 Forge`.
 6. Entra al servidor con esta dirección: `213.136.66.164:25592`.
 
-#### Guiá de MODS:
+#### Lista de MODS:
 
-...
+* AutoRegLib - [enlace](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
+* Back Tools - [enlace](https://www.curseforge.com/minecraft/mc-mods/back-tools)
+* YUNG's Better Mineshafts (Forge) - [enlace](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+* 
