@@ -1,6 +1,6 @@
 # Server-MineSnake
-## Guia de jugador del servidor de Minecraft por Snakeblack.
-#### Guia de Descarga e instalacíon:
+## Guía de jugador - Servidor de Minecraft *por Snakeblack*.
+#### Guía de Descarga e instalación:
 
 1. Descargar e instala Tlauncher desde [este enlace.](https://tlauncher.org/installer)
 2. Descarga e instala el cliente de Forge 1.16.5 desde [este enlace.](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar)
@@ -16,6 +16,6 @@
 5. Ejecuta Tlauncher y elige la versión `1.16.5 Forge`.
 6. Entra al servidor con esta dirección: `213.136.66.164:25592`.
 
-#### Guia de MODS:
+#### Guiá de MODS:
 
 ...
