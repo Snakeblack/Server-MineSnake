@@ -5,7 +5,7 @@
 1. Descargar e instala Tlauncher desde [este enlace.](https://tlauncher.org/installer)
 2. Descarga e instala el cliente de Forge 1.16.5 desde [este enlace.](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar)
 3. Ejecutar el archivo `Forge_VERSION_X.jar` para generar archivos necesarios y la carpeta `/mods`.
-4. Ir a la carpeta `.minecraft` y pegar los mods en la carpeta `/mods`.
+4. Ir a la carpeta `.minecraft` y pegar los [mods](https://github.com/Snakeblack/Server-MineSnake/tree/main/mods) en la carpeta `/mods`.
 
 | **S.O.** | **RUTA** |
 | -- | -- |
@@ -18,12 +18,12 @@
 
 #### Lista de MODS:
 
-* AutoRegLib - [enlace](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
+* AutoRegLib - [enlace](https://www.curseforge.com/minecraft/mc-mods/autoreglib) - [wiki]()
 * Back Tools - [enlace](https://www.curseforge.com/minecraft/mc-mods/back-tools)
 * YUNG's API (Forge) - [enlace](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
 * YUNG's Better Mineshafts (Forge) - [enlace](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
 * Clumps - [enlace](https://www.curseforge.com/minecraft/mc-mods/clumps)
-* Dungeon Crawl - [enlace](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
+* Dungeon Crawl - [enlace](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl) 
 * Dynamic Surroundings - [enlace](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
 * End Remastered - [enlace](https://www.curseforge.com/minecraft/mc-mods/endremastered)
 * Farmer's Delight - [enlace](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
